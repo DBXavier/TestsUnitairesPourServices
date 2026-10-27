@@ -52,6 +52,7 @@ namespace TestsUnitairesPourServicesTests
         public void Dispose()
         {
             _db.Dispose();
+
         }
 
         [TestMethod]
